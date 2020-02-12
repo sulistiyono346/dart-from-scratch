@@ -1,2 +1,2 @@
-# flutter-from-scratch
-flutter from scratch
+# dart-from-scratch
+dart from scratch
